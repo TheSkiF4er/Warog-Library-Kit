@@ -18,7 +18,7 @@ ____
 </div>
 
 ## Демонстрация
-...
+Cajeer Engine Kit 3 - https://cajeer.ru/cek/demo/
 
 ## Поддержка и вклады в проект
 ### Поддержка
